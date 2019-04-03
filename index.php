@@ -7,6 +7,7 @@
 	$session=session_id();
 
 	// comment code abc
+	// abc conflic\
 	/// test commit code conflic
 
 	@define ( '_template' , './templates/');

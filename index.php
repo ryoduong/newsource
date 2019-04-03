@@ -6,7 +6,7 @@
 
 	$session=session_id();
 
-
+	// comment code abc
 
 	@define ( '_template' , './templates/');
 
